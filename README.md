@@ -4,6 +4,8 @@ This repository accompanies [*Signals and Systems*](https://www.springer.com/boo
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
+![Cover](cover.jpg)
+
 ## Releases
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
